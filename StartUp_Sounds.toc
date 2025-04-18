@@ -1,6 +1,6 @@
-## Interface: 110002
+## Interface: 110100
 ## Version: @project-version@
-
+## Category: Media
 ## Title: |cff0080cc<Start Up>|r Sounds
 ## Notes: Just some sounds for the guild |cff0080cc<Start Up>|r
 ## Author: Pingumania

@@ -1,9 +1,12 @@
 ## Interface: 110200
-## Version: @project-version@
-## Category: Media
+## Interface-Mists: 50500
+## Interface-Vanilla: 11507
+
 ## Title: |cff0080cc<Start Up>|r Sounds
 ## Notes: Just some sounds for the guild |cff0080cc<Start Up>|r
+## Category: Media
 ## Author: Pingumania
+## Version: @project-version@
 
 Embeds.xml
 Media.lua

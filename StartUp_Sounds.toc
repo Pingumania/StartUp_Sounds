@@ -3,6 +3,7 @@
 ## Title: |cff0080cc<Start Up>|r Sounds
 ## Notes: Just some sounds for the guild |cff0080cc<Start Up>|r
 ## Category: Media
+## IconTexture: Interface\Icons\inv_misc_drum_01
 ## Author: Pingumania
 ## Version: @project-version@
 

@@ -1,4 +1,4 @@
-## Interface: 11508, 16001, 120100
+## Interface: 16001, 120100
 
 ## Title: |cff0080cc<Start Up>|r Sounds
 ## Notes: Just some sounds for the guild |cff0080cc<Start Up>|r
